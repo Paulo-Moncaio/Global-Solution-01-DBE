@@ -16,3 +16,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Java](https://www.java.com)
+- [Primefaces](https://www.primefaces.org)
+- [Hibernate](https://hibernate.org)
+- JSF (JavaServer Faces)
+- Singleton
+- JPA
