@@ -1,10 +1,18 @@
-# Global-Solution-01-DBE
+# Global-Solution-01-Digital Business Enablement
 
-### Integrantes
+- Trabalho final do terceiro semestre da materia Digital Business Enablement
+- Aplicação web com JSF e Primefaces
 
-* RM: 85708 - Diogo Amaral (2TDSG)
-* RM: 85937 - Gustavo Pereira dos Santos (2TDSG)
-* RM: 85385 - Laura Luz Cabral (2TDSR)
-* RM: 85164 - Lucas de Castro Pereira (2TDSR)
-* RM: 84372 - Paulo Fernando Moncaio Avelar Muniz (2TDSG)
-* RM: 85824 - Víctor Madrid Davanço (2TDSG)
+### Funcionalidades
+
+- Autenticação via e-mail e senha
+- Autorização
+- CRUD Completo de pelo menos uma entidade
+- Validação de dados via ajax
+- Serviços REST para integração com a aplicação da disciplina Hybrid Mobile App Development
+
+## Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Java](https://www.java.com)
